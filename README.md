@@ -15,7 +15,10 @@ https://sublime.wbond.net/installation
 Le dossier utilisateur peut changer.
 
     cd "C:\Users\Username\AppData\Roaming\Sublime Text 3\Packages\User"
-    git clone -b master https://github.com/ClementBoudon/SublimeSyncing.git
+    git init
+    git remote add origin https://github.com/ClementBoudon/SublimeSyncing.git
+    git fetch
+    git checkout -t origin/master
 
 
 ## Configurations diverses
