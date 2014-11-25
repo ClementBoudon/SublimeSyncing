@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"CSS3",
+		"Emmet",
+		"JavaScriptNext - ES6 Syntax",
+		"LiveReload",
+		"SCSS",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Theme - Cobalt2"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	]
+}

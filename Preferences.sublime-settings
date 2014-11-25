@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/Seti (SL).tmTheme",
+	"ignored_packages":
+	[
+		"SublimeLinter-json",
+		"Vintage",
+		"SublimeLinter-jshint",
+		"CSS",
+		"SublimeLinter-csslint"
+	],
+	"theme": "Seti.sublime-theme"
+}
