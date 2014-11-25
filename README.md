@@ -16,6 +16,7 @@ https://sublime.wbond.net/installation
     cd "C:\Users\[Username]\AppData\Roaming\Sublime Text 3\Packages\User"
 	git clone -b master https://github.com/ClementBoudon/SublimeSyncing.git
 
+
 ## Configurations diverses
 ---
 ### LiveReload
@@ -33,4 +34,5 @@ Intégration d'une version compatible Sublime Text 3
 
 	npm install jshint
 	npm install cssslint
+
 * Installer PHP (http://windows.php.net/download/, unzip dans C:\php, ajout au PATH)
