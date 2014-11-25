@@ -39,3 +39,7 @@ jslint peut être préféré à jshint.
     npm install cssslint
 
 * Installer PHP (http://windows.php.net/download/, unzip dans C:\php, ajout au PATH)
+
+### Git
+
+* Installer git (http://git-scm.com/)

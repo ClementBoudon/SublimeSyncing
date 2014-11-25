@@ -2,11 +2,11 @@
 	"color_scheme": "Packages/User/Seti (SL).tmTheme",
 	"ignored_packages":
 	[
-		"SublimeLinter-json",
-		"Vintage",
-		"SublimeLinter-jshint",
 		"CSS",
-		"SublimeLinter-csslint"
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"Vintage"
 	],
 	"theme": "Seti.sublime-theme"
 }
