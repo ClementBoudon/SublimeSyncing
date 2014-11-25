@@ -1,7 +1,7 @@
 # Dossier de paramètres personnalisés
 
 ## Utilisation
----
+
 * Installer Sublime Text 3
 
 http://www.sublimetext.com/3
@@ -12,27 +12,30 @@ https://sublime.wbond.net/installation
 
 * Cloner le repository
 
+Le dossier utilisateur peut changer.
 
-    cd "C:\Users\[Username]\AppData\Roaming\Sublime Text 3\Packages\User"
-	git clone -b master https://github.com/ClementBoudon/SublimeSyncing.git
+    cd "C:\Users\Username\AppData\Roaming\Sublime Text 3\Packages\User"
+    git clone -b master https://github.com/ClementBoudon/SublimeSyncing.git
 
 
 ## Configurations diverses
----
+
 ### LiveReload
 Intégration d'une version compatible Sublime Text 3
 
-	cd "C:\Users\[Username]\AppData\Roaming\Sublime Text 3\Packages"
-	rm -rf LiveReload
-	git clone -b master https://github.com/Grafikart/ST3-LiveReload.git LiveReload
+    cd "C:\Users\Username\AppData\Roaming\Sublime Text 3\Packages"
+    rm -rf LiveReload
+    git clone -b master https://github.com/Grafikart/ST3-LiveReload.git LiveReload
 
 ### SublimeLinter (PHP, JS, CSS)
 
 * Installer Node (http://nodejs.org/)
-* Exécuter 
-	
 
-	npm install jshint
-	npm install cssslint
+* Exécuter
+
+jslint peut être préféré à jshint.
+
+    npm install jshint 
+    npm install cssslint
 
 * Installer PHP (http://windows.php.net/download/, unzip dans C:\php, ajout au PATH)
