@@ -1,4 +1,4 @@
-# Dossier de paramètres personnalisés perso
+# Dossier de paramÃ¨tres personnalisÃ©s perso
 
 ## Utilisation
 
