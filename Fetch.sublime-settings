@@ -1,8 +1,8 @@
 {
 	"files":
 	{
-		"jquery": "http://code.jquery.com/jquery.min.js",
-		"angular134": "https://code.angularjs.org/1.3.4/angular.js"
+		"angular134": "https://code.angularjs.org/1.3.4/angular.js",
+		"jquery": "http://code.jquery.com/jquery.min.js"
 	},
 	"packages":
 	{

@@ -1,13 +1,15 @@
 {
 	"color_scheme": "Packages/User/Seti (SL).tmTheme",
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"Vintage",
 		"SublimeLinter-csslint",
-		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"Vintage",
 		"CSS",
 		"LiveStyle",
-		"SublimeLinter-json"
+		"SublimeLinter-jshint",
+		"LiveReload"
 	],
 	"theme": "Seti.sublime-theme"
 }
